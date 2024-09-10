@@ -1,0 +1,51 @@
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.ticket_compra {
+    padding: 2rem;
+    border: 5px solid rgba(0, 0, 0, 0.548);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6rem;
+}
+
+.cant_producto {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.data_producto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+}
+button#btnrestar{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+button#btnsumar{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+.encabezado_ticket{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pie_ticket{
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}

@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "price": 2.50,
+    "type": "Beverage"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "image_url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "price": 3.75,
+    "type": "Beverage"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "image_url": "https://images.unsplash.com/photo-1536547833-8f4d1c4c0156",
+    "price": 4.00,
+    "type": "Beverage"
+  },
+  {
+    "id": 4,
+    "name": "Mocha",
+    "image_url": "https://images.unsplash.com/photo-1570295972685-0875a2a0cb36",
+    "price": 4.50,
+    "type": "Beverage"
+  },
+  {
+    "id": 5,
+    "name": "Macchiato",
+    "image_url": "https://images.unsplash.com/photo-1580090812381-0f107cda8d0d",
+    "price": 3.00,
+    "type": "Beverage"
+  },
+  {
+    "id": 6,
+    "name": "Pastry",
+    "image_url": "https://images.unsplash.com/photo-1584911175504-84d4522363b6",
+    "price": 2.25,
+    "type": "Dessert"
+  },
+  {
+    "id": 7,
+    "name": "Croissant",
+    "image_url": "https://images.unsplash.com/photo-1541438721453-f5f3c7d6f56e",
+    "price": 2.75,
+    "type": "Dessert"
+  },
+  {
+    "id": 8,
+    "name": "Bagel",
+    "image_url": "https://images.unsplash.com/photo-1578893254262-3b0ea2ea1fd5",
+    "price": 3.00,
+    "type": "Snack"
+  },
+  {
+    "id": 9,
+    "name": "Muffin",
+    "image_url": "https://images.unsplash.com/photo-1576100346698-c40b1c7a5441",
+    "price": 2.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 10,
+    "name": "Brownie",
+    "image_url": "https://images.unsplash.com/photo-1597466387227-c9f3f6571d6d",
+    "price": 3.25,
+    "type": "Dessert"
+  },
+  {
+    "id": 11,
+    "name": "Fruit Salad",
+    "image_url": "https://images.unsplash.com/photo-1555685817-415b15b8e3c8",
+    "price": 3.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 12,
+    "name": "Yogurt Parfait",
+    "image_url": "https://images.unsplash.com/photo-1522860492737-e4b76fc2b697",
+    "price": 4.00,
+    "type": "Dessert"
+  },
+  {
+    "id": 13,
+    "name": "Granola Bar",
+    "image_url": "https://images.unsplash.com/photo-1585645181330-7ea14e2e86e2",
+    "price": 2.00,
+    "type": "Snack"
+  },
+  {
+    "id": 14,
+    "name": "Cheese Plate",
+    "image_url": "https://images.unsplash.com/photo-1546837241-0636f0c18669",
+    "price": 5.00,
+    "type": "Appetizer"
+  },
+  {
+    "id": 15,
+    "name": "Scone",
+    "image_url": "https://images.unsplash.com/photo-1605571417978-724d5c39a875",
+    "price": 2.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 16,
+    "name": "Chia Pudding",
+    "image_url": "https://images.unsplash.com/photo-1565378423-2b0c6d081e52",
+    "price": 4.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 17,
+    "name": "Smoothie",
+    "image_url": "https://images.unsplash.com/photo-1556742404-2c5361a10b22",
+    "price": 4.00,
+    "type": "Beverage"
+  },
+  {
+    "id": 18,
+    "name": "Oatmeal",
+    "image_url": "https://images.unsplash.com/photo-1555682688-1b80a41b6b5d",
+    "price": 3.25,
+    "type": "Breakfast"
+  },
+  {
+    "id": 19,
+    "name": "Toast with Jam",
+    "image_url": "https://images.unsplash.com/photo-1547594555-dad6e4c57b76",
+    "price": 2.75,
+    "type": "Breakfast"
+  },
+  {
+    "id": 20,
+    "name": "Avocado Toast",
+    "image_url": "https://images.unsplash.com/photo-1562108317-4d8c0133a6e4",
+    "price": 4.00,
+    "type": "Breakfast"
+  },
+  {
+    "id": 21,
+    "name": "Chocolate Cake",
+    "image_url": "https://images.unsplash.com/photo-1542281286-6f8a7a3b4b8d",
+    "price": 4.75,
+    "type": "Dessert"
+  },
+  {
+    "id": 22,
+    "name": "Tiramisu",
+    "image_url": "https://images.unsplash.com/photo-1600578624058-0d152c4f06f5",
+    "price": 5.00,
+    "type": "Dessert"
+  },
+  {
+    "id": 23,
+    "name": "Cheesecake",
+    "image_url": "https://images.unsplash.com/photo-1555689394-0d82f43d586e",
+    "price": 4.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 24,
+    "name": "Lemon Tart",
+    "image_url": "https://images.unsplash.com/photo-1555688596-5a9cb865d99e",
+    "price": 4.25,
+    "type": "Dessert"
+  },
+  {
+    "id": 25,
+    "name": "Apple Pie",
+    "image_url": "https://images.unsplash.com/photo-1543033735-7d0709a6798e",
+    "price": 4.00,
+    "type": "Dessert"
+  },
+  {
+    "id": 26,
+    "name": "Panna Cotta",
+    "image_url": "https://images.unsplash.com/photo-1568293202-9205f5b8e0c0",
+    "price": 4.75,
+    "type": "Dessert"
+  },
+  {
+    "id": 27,
+    "name": "Mango Sorbet",
+    "image_url": "https://images.unsplash.com/photo-1578896206547-0c684a1a7a9d",
+    "price": 3.50,
+    "type": "Dessert"
+  },
+  {
+    "id": 28,
+    "name": "Baklava",
+    "image_url": "https://images.unsplash.com/photo-1575033521694-d576c62d5ec1",
+    "price": 4.00,
+    "type": "Dessert"
+  },
+  {
+    "id": 29,
+    "name": "Creme Brulee",
+    "image_url": "https://images.unsplash.com/photo-1603076847308-ec6b4c207830",
+    "price": 5.25,
+    "type": "Dessert"
+  },
+  {
+    "id": 30,
+    "name": "Raspberry Coulis",
+    "image_url": "https://images.unsplash.com/photo-1570121042087-18d577e01a6e",
+    "price": 3.75,
+    "type": "Dessert"
+  },
+  {
+    "id": 31,
+    "name": "Quiche Lorraine",
+    "image_url": "https://images.unsplash.com/photo-1576686639548-d1ab6f4e06b2",
+    "price": 5.50,
+    "type": "Appetizer"
+  },
+  {
+    "id": 32,
+    "name": "Stuffed Croissant",
+    "image_url": "https://images.unsplash.com/photo-1565733273-4a6a515c6df2",
+    "price": 3.50,
+    "type": "Snack"
+  },
+  {
+    "id": 33,
+    "name": "Classic Pancakes",
+    "image_url": "https://images.unsplash.com/photo-1597523585586-5e0b7e6d2b0a",
+    "price": 4.50,
+    "type": "Breakfast"
+  },
+  {
+    "id": 34,
+    "name": "Avocado Salad",
+    "image_url": "https://images.unsplash.com/photo-1555685814-20cbf4455b20",
+    "price": 5.00,
+    "type": "Appetizer"
+  },
+  {
+    "id": 35,
+    "name": "Beef Sliders",
+    "image_url": "https://images.unsplash.com/photo-1556742148-0c16e3a024d2",
+    "price": 6.00,
+    "type": "Main Course"
+  }
+]

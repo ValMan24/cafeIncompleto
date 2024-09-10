@@ -1,0 +1,106 @@
+.restaurantes {
+    display: flex;
+    gap: 1rem;
+}
+
+input.search {
+    padding: 1rem;
+    width: 40%;
+    border-radius: 15px;
+}
+
+.type_restaurant {
+    height: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    overflow: scroll;
+    gap: 1rem;
+
+}
+
+.type_restaurant::-webkit-scrollbar {
+    display: none;
+}
+
+input#resto {
+    padding: 0.5rem;
+    min-width: 5rem;
+    width: 10%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+input#resto:hover {
+    border-color: aquamarine;
+    background-color: aquamarine;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(127, 255, 142); */
+    height: 4rem;
+    margin-bottom: 1rem;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+
+img {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 1rem;
+}
+
+.tarjeta {
+    padding: 1rem;
+    height: 15rem;
+    width: 8rem;
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.5);
+}
+.tarjeta:hover{
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+.imagen_resto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 1rem;
+    margin-bottom: 1rem
+
+}
+
+.filtro {
+    display: flex;
+}
+.restaurantes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}

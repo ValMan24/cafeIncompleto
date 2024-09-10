@@ -1,0 +1,200 @@
+h4 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+
+.gris_txt {
+    color: darkgrey;
+    font-size: 0.7rem;
+}
+
+a.mapa {
+    color: rgba(154, 244, 18, 0.481);
+    right: 0;
+}
+
+img {
+    width: 60%;
+    border-radius: 14px;
+}
+
+.imagen_resto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+}
+
+.restaurant {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /*  box-sizing: border-box; */
+    /* flex-wrap: wrap;
+    /*overflow: hidden;*/
+    /*padding: 100rem;*/
+}
+
+img.star {
+    width: 15px;
+}
+
+img.star:active {
+    color: yellow;
+    background-color: yellow;
+}
+
+.calificacion {
+    height: 2rem;
+    width: 100%;
+    align-items: center;
+    padding: 2px;
+}
+
+.vistas {
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    gap: 1.5rem;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+
+.foto_resto {
+    height: 5rem;
+    width: 6rem;
+}
+
+.type_restaurant {
+    height: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    overflow: scroll;
+    gap: 1rem;
+
+}
+
+.type_restaurant::-webkit-scrollbar {
+    display: none;
+}
+
+input#resto {
+    padding: 0.5rem;
+    min-width: 5rem;
+    width: 10%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+input#resto:hover {
+    border-color: aquamarine;
+    background-color: aquamarine;
+}
+
+.map {
+    width: 100%;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+justify-content: end;
+margin-right: 5rem;
+   
+} 
+
+.tarjeta {
+    width: 100%;
+    height: 100%;
+}
+
+.tag {
+   
+    display: flex;
+    padding: 0.2rem;
+    padding-right: 0px;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 3rem;
+    border-radius: 2rem;
+    border: 0.3rem solid rgba(0, 0, 0, 0.673);
+
+}
+
+.btn {
+    margin-right: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: 0.3rem solid rgba(0, 0, 0, 0.673);
+
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 30px;
+}
+
+.btn:hover {
+    /*transform: translateX(4rem);*/
+    transform: rotate(-360deg);
+    transition: 1s;
+}
+
+a {
+    width: 90%;
+    height: 3rem;
+}
+
+a:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
+.comentarios{
+    margin: 3rem;
+}
+a.coment {
+    margin: 2rem;
+    border: 0.2rem solid;
+    width: 10%;
+    padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.coment:hover {
+    transition: 1s;
+background-color: aquamarine;
+}
+/* body{
+    background-image: url("https://tarjetasdepresentacioncreativas.com/wp-content/uploads/2019/05/fondos-para-menus-de-restaurantes-pizarra.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+} */
+
+.price_btn {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.name_menu {
+    width: 40%;
+}

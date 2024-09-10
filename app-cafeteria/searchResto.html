@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="style/default.css">
+    <link rel="stylesheet" href="style/searchResto.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header><input class="search" type="text" placeholder="Busca tu proximo restaurante..."><span
+            class="material-symbols-outlined">
+            search
+        </span></header>
+    <div class="filtro">
+        <div id="porPais" onclick="botonSelectt()"></div>
+        <select id="bestResto">
+            <option value="#">Elegir opcion por calificacion</option>
+        </select>
+    </div>
+
+
+    <div class="navegacion">
+        <h1>Explore Restaurant</h1>
+        <div class="types"></div>
+        <div class="restaurantes"></div>
+
+    </div>
+
+  
+
+    <div class="button_footer"></div>
+    
+
+    <script src="js/static.js"></script>
+    <script src="./js/leerJSON.js"></script>
+</body>
+
+</html>

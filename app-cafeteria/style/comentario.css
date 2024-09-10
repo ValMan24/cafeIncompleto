@@ -1,0 +1,32 @@
+.tarjeta {
+    border: 0.3rem solid #000000bf;
+    border-radius: 10px;
+    padding: 0.5rem;
+    width: 80%;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+}
+.tarjeta:hover{
+    transform: scale(1.01);
+    transition: 0.3s;
+}
+.dato {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 1rem;
+    flex-wrap: wrap;
+}
+.comentarios {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem;
+    justify-content: center;
+}
+.datos {
+    display: flex;
+}
+img.fto {
+    border-radius: 50%;
+    border: 0.3rem solid rgb(165, 107, 86);
+}
